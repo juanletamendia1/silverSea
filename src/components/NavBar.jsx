@@ -5,7 +5,8 @@ const NavBar = () => {
     <nav className ="navegador">
       <h1>Silver Sea</h1>
       <ul>
-        <li>contacto</li>
+        <li>Home</li>
+        <li>Contacto</li>
         <li>nosotros</li>
         <li>productos</li>
       </ul>
