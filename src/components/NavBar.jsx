@@ -2,7 +2,7 @@ import CartWidget from "./CartWidget";
 
 const NavBar = () => {
   return (
-    <nav className="navegador">
+    <nav className ="navegador">
       <h1>Silver Sea</h1>
       <ul>
         <li>contacto</li>

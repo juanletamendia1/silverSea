@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header/>
-      <ItemListContainer greeting="Soy Juan Letamedia"/>
+      <ItemListContainer/>
       <Main saludo="bienvenidos a mi pagina" />
       <Footer/>
     </>
