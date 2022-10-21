@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer>espero puedas ayudarnos</footer>
+    <footer>espero puedas ayudarme a mejorarla</footer>
   )
 }
 

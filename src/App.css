@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
-nav{
+.navegador{
   background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+
 }

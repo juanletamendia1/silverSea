@@ -1,9 +1,13 @@
-const Main = () => {
+import Button from "./Button"
+
+const Main = (props) => {
+
     return(
         <main>
-            <p>texto prueba</p>
+            <p>{props.saludo}</p>
+            <Button text="Login" />
         </main>
-    );
+    )
 }
 
 export default Main;

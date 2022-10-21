@@ -5,7 +5,7 @@ const Header = () => {
     <header>
         <NavBar/>
     </header>
-  );
+  )
 }
 
 export default Header
